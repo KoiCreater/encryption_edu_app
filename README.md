@@ -1,2 +1,2 @@
 # encryption_edu_app
-App that helps everyone learn what's and why we need encryption.
+Chat style app that helps everyone learn what's and why we need encryption.
